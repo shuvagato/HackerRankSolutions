@@ -62,7 +62,7 @@ public class Solution {
 			int rotatebyR = R % elementsInLayer.size();
 			rotateArray(elementsInLayer, rotatebyR);
 			
-			//Put Layer Elements after rotoation
+			//Put Layer Elements after rotation
 			int c = 0;
 			//towards Right
 			for(int i = startCol; i < endCol; i ++) {
