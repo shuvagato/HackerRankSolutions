@@ -1,5 +1,5 @@
 /*
-* Matri Rotation CounterClock wise
+* Solution for Matrix Rotation CounterClock wise in Hackerrank
 *https://www.hackerrank.com/challenges/matrix-rotation-algo
 */
 import java.io.*;
