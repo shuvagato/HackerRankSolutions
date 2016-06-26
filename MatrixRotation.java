@@ -1,5 +1,7 @@
-//https://www.hackerrank.com/challenges/matrix-rotation-algo
-
+/*
+* Matri Rotation CounterClock wise
+*https://www.hackerrank.com/challenges/matrix-rotation-algo
+*/
 import java.io.*;
 import java.util.*;
 
